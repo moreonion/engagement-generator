@@ -8,7 +8,7 @@
           </ul>
         </div>
         <div class="title-bar-right">
-          <a href="https://www.impact-stack.org/the-campaign-tactics-generator/" target="_blank">About</a>
+          <a href="https://act.more-onion.com/free-report-spark-excitement-engagement-actions/" target="_blank">Free report</a>
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
         <div id="menu-desktop" class="cell top-bar show-for-large">
           <a class="logo" href="https://www.more-onion.com/" target="_blank"><img class="logo top-bar-left" src="https://assets.staging.campaignion.org/mo7/v1/logo.svg" alt="Logo More Onion"> </a>
           <div class="top-bar-right">
-            <a href="https://www.impact-stack.org/the-campaign-tactics-generator/" target="_blank">About</a>
+            <a href="https://act.more-onion.com/free-report-spark-excitement-engagement-actions/" target="_blank">Free report</a>
           </div>
         </div>
       </div>
