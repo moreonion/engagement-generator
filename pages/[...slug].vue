@@ -108,7 +108,7 @@ useHead({
 }
 
 .tactic-seperator {
-  color: #8ac128;
+  color: #691a80;
   font-weight: bold;
   font-size: 250%;
   text-align: center;

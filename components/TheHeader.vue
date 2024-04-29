@@ -53,7 +53,7 @@ a:active {
     border-bottom: 0 none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #8ac128;
+    color: #691a80;
   }
 }
 </style>
