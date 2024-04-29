@@ -38,7 +38,7 @@
 <style lang="scss">
 #main {
   overflow: initial; // To make position: sticky work on the sidebar.
-  background-image: url(https://ucarecdn.com/415f1900-5ecc-4b2c-a8db-9dfef91e4981/background__green_people_flipped.png);
+  background-image: url(https://assets.staging.campaignion.org/mo7/v1/background__engagement_action_generator.png);
   background-repeat: no-repeat;
   background-size: cover;
 
