@@ -42,11 +42,7 @@
   background-image: url(https://assets.staging.campaignion.org/mo7/v1/background__engagement_action_generator.png);
   background-repeat: no-repeat;
   background-size: cover;
-
-  @media print, screen and (max-width: 63.999em) {
-    background-position: bottom right;
-    background-size: auto;
-  }
+  background-position: bottom right;
 
   .intro {
     padding-bottom: 3.3rem;
