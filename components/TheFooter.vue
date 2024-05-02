@@ -63,6 +63,6 @@
     text-transform: none;
     text-decoration: none;
     font-weight: normal;
-    color: #fff;
+    background: #fff;
   }
 </style>
