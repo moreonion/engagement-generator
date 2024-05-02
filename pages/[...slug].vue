@@ -53,7 +53,7 @@ definePageMeta({
 })
 
 useHead({
-  title: `Campaign tactics generator | ${route.meta.content.tactic.Title}, ${route.meta.content.hook.Title}`
+  title: `Engagement action idea generator | ${route.meta.content.tactic.Title}, ${route.meta.content.hook.Title}`
 })
 </script>
 
