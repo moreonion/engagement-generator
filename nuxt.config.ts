@@ -2,9 +2,9 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Engagement action idea generator',
+      title: 'Free: Rich supporter engagement ideas',
       meta: [
-        { name: 'description', content: 'Generate ideas for engagement actions' },
+        { name: 'description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.' },
         { name: 'keywords', content: 'Engagement, supporter experience, non-profit idea generator, impact ideas' },
         { name: 'robots', content: 'index, follow' },
 
@@ -12,18 +12,18 @@ export default defineNuxtConfig({
         { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png'},
         { name: 'theme-color', content: '#ffffff'},
 
-        { property: 'og:title', content: 'Engagement action idea generator'},
+        { property: 'og:title', content: 'Free: Rich supporter engagement ideas'},
         { property: 'og:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
         { property: 'og:type', content: 'website'},
         { property: 'og:url', content: 'https://tactics.impact-stack.org/'},
-        { property: 'og:site_name', content: 'Advocacy: tactics idea generator'},
-        { property: 'og:description', content: 'Generate ideas for engagement actions'},
+        { property: 'og:site_name', content: 'Engagement action idea generator'},
+        { property: 'og:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
 
         { name: 'twitter:card', content: 'summary_large_image'},
-        { name: 'twitter:title', content: 'Generate ideas for engagement actions'},
-        { name: 'twitter:description', content: 'Generate ideas for engagement actions ➨ HERE'},
+        { name: 'twitter:title', content: 'Free: Rich supporter engagement ideas'},
+        { name: 'twitter:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
         { name: 'twitter:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
-        { name: 'twitter:site', content: '@impact_stack'},
+        { name: 'twitter:site', content: '@moreonion'},
         { name: 'twitter:creator', content: '@moreonion'},
       ],
       link: [
