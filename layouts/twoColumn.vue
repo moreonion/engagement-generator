@@ -30,6 +30,8 @@
 
     <slot name="sidebar" />
 
+    <TheBottomSection />
+
     <TheFooter />
 
 

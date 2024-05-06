@@ -7,18 +7,12 @@
             <li><a class="logo" href="https://www.more-onion.com/" target="_blank"><img class="logo" src="https://assets.staging.campaignion.org/mo7/v1/logo.svg" alt="Logo More Onion"></a></li>
           </ul>
         </div>
-        <div class="title-bar-right">
-          <a href="https://act.more-onion.com/free-report-spark-excitement-engagement-actions/" target="_blank">Free report</a>
-        </div>
       </div>
     </div>
     <div class="grid-container">
       <div class="grid-x grid-margin-x">
         <div id="menu-desktop" class="cell top-bar show-for-large">
           <a class="logo" href="https://www.more-onion.com/" target="_blank"><img class="logo top-bar-left" src="https://assets.staging.campaignion.org/mo7/v1/logo.svg" alt="Logo More Onion"> </a>
-          <div class="top-bar-right">
-            <a href="https://act.more-onion.com/free-report-spark-excitement-engagement-actions/" target="_blank">Free report</a>
-          </div>
         </div>
       </div>
     </div>
