@@ -15,7 +15,7 @@ export default defineNuxtConfig({
         { property: 'og:title', content: 'Free: Rich supporter engagement ideas'},
         { property: 'og:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
         { property: 'og:type', content: 'website'},
-        { property: 'og:url', content: 'https://tactics.impact-stack.org/'},
+        { property: 'og:url', content: 'https://engagement.more-onion.com/'},
         { property: 'og:site_name', content: 'Engagement action idea generator'},
         { property: 'og:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
 
