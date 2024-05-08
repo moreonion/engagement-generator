@@ -7,8 +7,9 @@
       <div class="grid-container">
         <div class="grid-x grid-margin-x">
           <div class="cell medium-9 large-7 intro">
-            <h1>The advocacy campaign tactic idea generator</h1>
-            <p>Successful advocacy campaigns need a good strategy and creative ideas for tactics. Our idea generator can help you spark new ideas or reshape old ones. <a href="https://www.impact-stack.org/the-campaign-tactics-generator/" title="More about the Impact Stack tactics generator">Find out more</a> or click the "Generate new tactic" button to explore.</p>
+            <h1>Engagement action idea generator</h1>
+            <p>Build rich and interesting experiences for your supporters!</p>
+            <p>An engagement action is a ways to actively involve your supporters that isn't a campaigning or donation action. They can achieve a number of audience-focused objectives such as building knowledge of an issue, building empathy, committment and much more. This idea generator can help you spark new ideas or reshape old ones. Click 'generate a new idea' to randomly generate a new objective and engagement action.</p>
           </div>
         </div>
       </div>
@@ -29,6 +30,8 @@
 
     <slot name="sidebar" />
 
+    <TheBottomSection />
+
     <TheFooter />
 
 
@@ -38,14 +41,10 @@
 <style lang="scss">
 #main {
   overflow: initial; // To make position: sticky work on the sidebar.
-  background-image: url(https://ucarecdn.com/415f1900-5ecc-4b2c-a8db-9dfef91e4981/background__green_people_flipped.png);
+  background-image: url(https://assets.staging.campaignion.org/mo7/v1/background__engagement_action_generator.png);
   background-repeat: no-repeat;
   background-size: cover;
-
-  @media print, screen and (max-width: 63.999em) {
-    background-position: bottom right;
-    background-size: auto;
-  }
+  background-position: bottom right;
 
   .intro {
     padding-bottom: 3.3rem;

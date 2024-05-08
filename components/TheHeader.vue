@@ -4,21 +4,15 @@
       <div id="my-header" class="title-bar hide-for-large">
         <div class="title-bar-left">
           <ul class="menu">
-            <li><a class="logo" href="https://www.impact-stack.org/" target="_blank"><img class="logo" src="https://act.more-onion.com/profiles/actmo/themes/impact_stack_theme/logo.png" alt="Logo More Onion"></a></li>
+            <li><a class="logo" href="https://www.more-onion.com/" target="_blank"><img class="logo" src="https://assets.staging.campaignion.org/mo7/v1/logo.svg" alt="Logo More Onion"></a></li>
           </ul>
-        </div>
-        <div class="title-bar-right">
-          <a href="https://www.impact-stack.org/the-campaign-tactics-generator/" target="_blank">About</a>
         </div>
       </div>
     </div>
     <div class="grid-container">
       <div class="grid-x grid-margin-x">
         <div id="menu-desktop" class="cell top-bar show-for-large">
-          <a class="logo" href="https://www.impact-stack.org/" target="_blank"><img class="logo top-bar-left" src="https://act.more-onion.com/profiles/actmo/themes/impact_stack_theme/logo.png" alt="Logo More Onion"> </a>
-          <div class="top-bar-right">
-            <a href="https://www.impact-stack.org/the-campaign-tactics-generator/" target="_blank">About</a>
-          </div>
+          <a class="logo" href="https://www.more-onion.com/" target="_blank"><img class="logo top-bar-left" src="https://assets.staging.campaignion.org/mo7/v1/logo.svg" alt="Logo More Onion"> </a>
         </div>
       </div>
     </div>
@@ -53,7 +47,7 @@ a:active {
     border-bottom: 0 none;
     -webkit-box-shadow: none;
     box-shadow: none;
-    color: #8ac128;
+    color: #691a80;
   }
 }
 </style>

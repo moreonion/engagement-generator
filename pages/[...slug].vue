@@ -11,7 +11,8 @@
     <template #sidebar>
       <div class="generator-button-card">
         <p>Not a good fit?</p>
-        <button type="button" @click="navigateToRandomRoute" :disabled="loading" class="primary button filled"><svg class="generator-button-icon" width="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118.04 122.88"><!-- From https://uxwing.com/refresh-icon - License: All icons are free to use any personal and commercial projects without any attribution or credit. --><path fill="#fff" d="M16.08,59.26A8,8,0,0,1,0,59.26a59,59,0,0,1,97.13-45V8a8,8,0,1,1,16.08,0V33.35a8,8,0,0,1-8,8L80.82,43.62a8,8,0,1,1-1.44-15.95l8-.73A43,43,0,0,0,16.08,59.26Zm22.77,19.6a8,8,0,0,1,1.44,16l-10.08.91A42.95,42.95,0,0,0,102,63.86a8,8,0,0,1,16.08,0A59,59,0,0,1,22.3,110v4.18a8,8,0,0,1-16.08,0V89.14h0a8,8,0,0,1,7.29-8l25.31-2.3Z"/></svg>Generate new tactic</button>
+        <button type="button" @click="navigateToRandomRoute" :disabled="loading" class="primary button filled show-for-medium"><svg class="generator-button-icon" width="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118.04 122.88"><!-- From https://uxwing.com/refresh-icon - License: All icons are free to use any personal and commercial projects without any attribution or credit. --><path fill="#fff" d="M16.08,59.26A8,8,0,0,1,0,59.26a59,59,0,0,1,97.13-45V8a8,8,0,1,1,16.08,0V33.35a8,8,0,0,1-8,8L80.82,43.62a8,8,0,1,1-1.44-15.95l8-.73A43,43,0,0,0,16.08,59.26Zm22.77,19.6a8,8,0,0,1,1.44,16l-10.08.91A42.95,42.95,0,0,0,102,63.86a8,8,0,0,1,16.08,0A59,59,0,0,1,22.3,110v4.18a8,8,0,0,1-16.08,0V89.14h0a8,8,0,0,1,7.29-8l25.31-2.3Z"/></svg>Generate a new idea</button>
+        <button type="button" @click="navigateToRandomRoute" :disabled="loading" class="primary button filled show-for-small-only"><svg class="generator-button-icon" width="18" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 118.04 122.88"><!-- From https://uxwing.com/refresh-icon - License: All icons are free to use any personal and commercial projects without any attribution or credit. --><path fill="#fff" d="M16.08,59.26A8,8,0,0,1,0,59.26a59,59,0,0,1,97.13-45V8a8,8,0,1,1,16.08,0V33.35a8,8,0,0,1-8,8L80.82,43.62a8,8,0,1,1-1.44-15.95l8-.73A43,43,0,0,0,16.08,59.26Zm22.77,19.6a8,8,0,0,1,1.44,16l-10.08.91A42.95,42.95,0,0,0,102,63.86a8,8,0,0,1,16.08,0A59,59,0,0,1,22.3,110v4.18a8,8,0,0,1-16.08,0V89.14h0a8,8,0,0,1,7.29-8l25.31-2.3Z"/></svg>Get a new idea</button>
       </div>
     </template>
 
@@ -53,7 +54,7 @@ definePageMeta({
 })
 
 useHead({
-  title: `Campaign tactics generator | ${route.meta.content.tactic.Title}, ${route.meta.content.hook.Title}`
+  title: `Engagement action idea generator | ${route.meta.content.tactic.Title}, ${route.meta.content.hook.Title}`
 })
 </script>
 
@@ -108,7 +109,7 @@ useHead({
 }
 
 .tactic-seperator {
-  color: #8ac128;
+  color: #691a80;
   font-weight: bold;
   font-size: 250%;
   text-align: center;

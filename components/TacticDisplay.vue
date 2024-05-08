@@ -56,8 +56,7 @@ const toggleFull = () => {
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
   line-height: 1.25;
-  text-transform: uppercase;
-  color: #8ac128;
+  color: #691a80;
 }
 
 @media print, screen and (min-width: 40em) {

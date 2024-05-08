@@ -2,33 +2,33 @@
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Campaign tactics generator',
+      title: 'Free: Rich supporter engagement ideas',
       meta: [
-        { name: 'description', content: 'Generate ideas for creative advocacy campaign tactics for progressive change' },
-        { name: 'keywords', content: 'Campaign tactic, tactics generator, tactic, advocacy tactic, activist tactic, non-profit idea generator, impact ideas' },
+        { name: 'description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.' },
+        { name: 'keywords', content: 'Engagement, supporter experience, non-profit idea generator, impact ideas' },
         { name: 'robots', content: 'index, follow' },
 
         { name: 'msapplication-TileColor', content: '#ffffff'},
         { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png'},
         { name: 'theme-color', content: '#ffffff'},
 
-        { property: 'og:title', content: 'Campaign tactics idea generator'},
-        { property: 'og:image', content: 'https://ucarecdn.com/869750b6-f90b-4303-9da2-b1352d80fda6/'},
+        { property: 'og:title', content: 'Free: Rich supporter engagement ideas'},
+        { property: 'og:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
         { property: 'og:type', content: 'website'},
-        { property: 'og:url', content: 'https://tactics.impact-stack.org/'},
-        { property: 'og:site_name', content: 'Advocacy: tactics idea generator'},
-        { property: 'og:description', content: 'Generate ideas for digital tactics you can use in your advocacy campaigns'},
+        { property: 'og:url', content: 'https://engagement.more-onion.com/'},
+        { property: 'og:site_name', content: 'Engagement action idea generator'},
+        { property: 'og:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
 
         { name: 'twitter:card', content: 'summary_large_image'},
-        { name: 'twitter:title', content: 'Generate ideas for creative advocacy campaign tactics for progressive change'},
-        { name: 'twitter:description', content: 'Generate ideas for creative advocacy campaign tactics for progressive change ➨ HERE'},
-        { name: 'twitter:image', content: 'https://ucarecdn.com/869750b6-f90b-4303-9da2-b1352d80fda6/'},
-        { name: 'twitter:site', content: '@impact_stack'},
+        { name: 'twitter:title', content: 'Free: Rich supporter engagement ideas'},
+        { name: 'twitter:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
+        { name: 'twitter:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
+        { name: 'twitter:site', content: '@moreonion'},
         { name: 'twitter:creator', content: '@moreonion'},
       ],
       link: [
-        { rel: 'preconnect', href: 'https://assets.more-onion.com' },
-        { rel: 'stylesheet', href: 'https://assets.more-onion.com/ist/v1/impact-stack.css?rjzina', crossorigin: '' },
+        { rel: 'preconnect', href: 'https://assets.staging.campaignion.org' },
+        { rel: 'stylesheet', href: 'https://assets.staging.campaignion.org/mo7/v1/main.css', crossorigin: '' },
 
         { rel: 'apple-touch-icon', sizes: '57x57', href: '/apple-icon-57x57.png' },
         { rel: 'apple-touch-icon', sizes: '60x60', href: '/apple-icon-60x60.png' },
