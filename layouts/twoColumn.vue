@@ -9,7 +9,7 @@
           <div class="cell medium-9 large-7 intro">
             <h1>Engagement action idea generator</h1>
             <p>Build rich and interesting experiences for your supporters!</p>
-            <p>An engagement action is a ways to actively involve your supporters that isn't a campaigning or donation action. They can achieve a number of audience-focused objectives such as building knowledge of an issue, building empathy, committment and much more. This idea generator can help you spark new ideas or reshape old ones. Click 'generate a new idea' to randomly generate a new objective and engagement action.</p>
+            <p>An engagement action is a way to actively involve your supporters that isn't a campaigning or donation action. They can achieve a number of audience-focused objectives such as building knowledge of an issue, building empathy, commitment and much more. This idea generator can help you spark new ideas or reshape old ones. Click 'generate a new idea' to randomly generate a new objective and engagement action.</p>
           </div>
         </div>
       </div>
