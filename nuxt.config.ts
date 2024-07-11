@@ -13,7 +13,7 @@ export default defineNuxtConfig({
         { name: 'theme-color', content: '#ffffff'},
 
         { property: 'og:title', content: 'Free: Rich supporter engagement ideas'},
-        { property: 'og:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
+        { property: 'og:image', content: 'https://assets.impact-stack.org/mo7/v1/sharing__engagement_action_generator.png'},
         { property: 'og:type', content: 'website'},
         { property: 'og:url', content: 'https://engagement.more-onion.com/'},
         { property: 'og:site_name', content: 'Engagement action idea generator'},
@@ -22,13 +22,13 @@ export default defineNuxtConfig({
         { name: 'twitter:card', content: 'summary_large_image'},
         { name: 'twitter:title', content: 'Free: Rich supporter engagement ideas'},
         { name: 'twitter:description', content: 'Generate ideas that will drive action and deepen the relationships with your supporters.'},
-        { name: 'twitter:image', content: 'https://assets.staging.campaignion.org/mo7/v1/sharing__engagement_action_generator.png'},
+        { name: 'twitter:image', content: 'https://assets.impact-stack.org/mo7/v1/sharing__engagement_action_generator.png'},
         { name: 'twitter:site', content: '@moreonion'},
         { name: 'twitter:creator', content: '@moreonion'},
       ],
       link: [
-        { rel: 'preconnect', href: 'https://assets.staging.campaignion.org' },
-        { rel: 'stylesheet', href: 'https://assets.staging.campaignion.org/mo7/v1/main.css', crossorigin: '' },
+        { rel: 'preconnect', href: 'https://assets.impact-stack.org' },
+        { rel: 'stylesheet', href: 'https://assets.impact-stack.org/mo7/v1/main.css', crossorigin: '' },
 
         { rel: 'apple-touch-icon', sizes: '57x57', href: '/apple-icon-57x57.png' },
         { rel: 'apple-touch-icon', sizes: '60x60', href: '/apple-icon-60x60.png' },
