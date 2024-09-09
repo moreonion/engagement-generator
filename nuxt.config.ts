@@ -46,9 +46,6 @@ export default defineNuxtConfig({
         { rel: 'icon', type: 'image/png', sizes: '16x16', href: '/favicon-16x16.png' },
 
         { rel: 'manifest', href: '/manifest.json' },
-      ],
-      script: [
-      { id: 'ze-snippet', src: 'https://static.zdassets.com/ekr/snippet.js?key=90806635-1c7b-4de2-ae19-381c8f2895b5' }
       ]
     }
   },
